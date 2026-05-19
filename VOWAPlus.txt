@@ -1,1 +1,7 @@
-{'ver1':'50', 'ver2':'80', 'ver3':'\n• [تحديث مهم]\n• يرجى تنزيل أحدث إصدار وتثبيته للحفاظ على عمل واتساب بشكل جيد\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار من لعبة عمل واتساب بشكل جيد\n' , 'dli':'https://youtu.be/tlyNxIgB-K8'}
+{
+    "VERSION_NAME": "4.0.0",
+    "WEBSITE_URL": "https://leowhatsappwebsite.my.canva.site/whatsappx-and-whatsapp-go",
+    "PRIMARY_PACKAGE": "https://t.me/VO_SH",
+    "SECONDARY_PACKAGE": "https://t.me/VO_SH",
+    "TERTIARY_PACKAGE": "https://t.me/VO_SH"
+}
