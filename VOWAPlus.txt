@@ -1,5 +1,5 @@
 {
-    "VERSION_NAME": "4.0.0",
+    "VERSION_NAME": "4.2.2",
     "WEBSITE_URL": "https://leowhatsappwebsite.my.canva.site/whatsappx-and-whatsapp-go",
     "PRIMARY_PACKAGE": "https://t.me/VO_SH",
     "SECONDARY_PACKAGE": "https://t.me/VO_SH",
